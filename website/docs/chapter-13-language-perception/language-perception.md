@@ -250,10 +250,10 @@ Chapter 13 has provided a comprehensive overview of language perception in VLA s
 For a deeper understanding of how cognitive planning builds upon language perception to enable higher-level reasoning and decision-making in VLA systems, please continue to [Chapter 14: Cognitive Planning and Decision Making](./chapter-14-cognitive-planning.md). Chapter 14 explores how the language understanding capabilities developed in this chapter are integrated with planning systems to create sophisticated educational robotics applications.
 
 Cross-references to related content:
-- For information on how perception systems integrate with language understanding, see [Chapter 15: Action Execution and Control](./chapter-15-action-execution.md)
-- For the complete integration of all VLA components, see [Chapter 16: System Integration and Autonomous Humanoid Capstone](./chapter-16-system-integration.md)
-- For comprehensive research on VLA system components, see [VLA System Components Research](../../specs/001-vla-module/research/vla-system-components.md)
-- For detailed explanation of language understanding component, see [Language Understanding Component Research](../../specs/001-vla-module/research/language-understanding-component.md)
+- For information on how perception systems integrate with language understanding, see [Chapter 15: Action Execution and Control](../chapter-15-action-execution/action-execution.md)
+- For the complete integration of all VLA components, see [Chapter 16: System Integration and Autonomous Humanoid Capstone](../chapter-16-system-integration/system-integration.md)
+- For comprehensive research on VLA system components, see [VLA System Components Research](../chapter-14-cognitive-planning/vla-system-components.md)
+- For detailed explanation of language understanding component, see [Language Understanding Component Research](./language-understanding-component.md)
 
 ## References
 

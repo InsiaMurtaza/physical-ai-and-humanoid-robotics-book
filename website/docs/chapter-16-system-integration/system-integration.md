@@ -281,10 +281,10 @@ For a comprehensive understanding of the foundational concepts that lead to this
 - [Chapter 15: Action Execution and Control](./chapter-15-action-execution.md) for physical execution and control systems
 
 Cross-references to related content:
-- For detailed component explanations, see [VLA System Components Research](../../specs/001-vla-module/research/vla-system-components.md)
-- For comprehensive architecture overview, see [VLA Architecture Concepts Research](../../specs/001-vla-module/research/vla-architecture-concepts.md)
-- For autonomous humanoid system design principles, see [Autonomous Humanoid Capstone Summary](../../specs/001-vla-module/research/autonomous-humanoid-capstone-summary.md)
-- For complete VLA applications overview, see [VLA Educational Applications Research](../../specs/001-vla-module/research/vla-educational-applications.md)
+- For detailed component explanations, see [VLA System Components Research](../chapter-14-cognitive-planning/vla-system-components.md)
+- For comprehensive architecture overview, see [VLA Architecture Concepts Research](../chapter-14-cognitive-planning/vla-architecture-concepts.md)
+- For autonomous humanoid system design principles, see [Autonomous Humanoid Capstone Summary](./autonomous-humanoid-capstone-summary.md)
+- For complete VLA applications overview, see [VLA Educational Applications Research](./vla-educational-applications.md)
 
 The Vision-Language-Action module has now been fully developed, providing education administrators with comprehensive understanding of how LLMs and robotics converge to enable integrated perception, language understanding, cognitive planning, and physical execution in educational contexts. Each chapter builds upon the previous one, creating a logical progression from language perception through cognitive planning, action execution, and finally system integration.
 

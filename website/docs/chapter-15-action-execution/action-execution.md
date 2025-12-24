@@ -265,11 +265,11 @@ Chapter 15 has provided a comprehensive overview of action execution and control
 For a complete understanding of how all VLA components integrate in an autonomous humanoid system, please continue to [Chapter 16: System Integration and Autonomous Humanoid Capstone](./chapter-16-system-integration.md). Chapter 16 demonstrates how the action execution capabilities developed in this chapter work together with perception, language understanding, and cognitive planning components.
 
 Cross-references to related content:
-- For foundational understanding of perception systems that inform action execution, see [Chapter 13: Language Perception in VLA Systems](./chapter-13-language-perception.md)
-- For cognitive planning that drives action execution, see [Chapter 14: Cognitive Planning and Decision Making](./chapter-14-cognitive-planning.md)
-- For complete system integration of all components, see [Chapter 16: System Integration and Autonomous Humanoid Capstone](./chapter-16-system-integration.md)
-- For detailed explanation of physical execution component, see [Physical Execution Component Research](../../specs/001-vla-module/research/physical-execution-component.md)
-- For comprehensive research on perception-action integration, see [Perception-Action Integration Research](../../specs/001-vla-module/research/perception-action-integration.md)
+- For foundational understanding of perception systems that inform action execution, see [Chapter 13: Language Perception in VLA Systems](../chapter-13-language-perception/language-perception.md)
+- For cognitive planning that drives action execution, see [Chapter 14: Cognitive Planning and Decision Making](../chapter-14-cognitive-planning/cognitive-planning.md)
+- For complete system integration of all components, see [Chapter 16: System Integration and Autonomous Humanoid Capstone](../chapter-16-system-integration/system-integration.md)
+- For detailed explanation of physical execution component, see [Physical Execution Component Research](./physical-execution-component.md)
+- For comprehensive research on perception-action integration, see [Perception-Action Integration Research](./perception-action-integration.md)
 
 ## References
 
