@@ -1,0 +1,8 @@
+{
+  "label": "Vision-Language-Action (VLA) Systems",
+  "position": 14,
+  "link": {
+    "type": "generated-index",
+    "description": "Vision-Language-Action (VLA) systems represent the convergence of Large Language Models (LLMs) and robotics, enabling integrated perception, language understanding, cognitive planning, and physical execution."
+  }
+}

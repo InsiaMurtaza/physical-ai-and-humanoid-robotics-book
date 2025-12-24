@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="#1e293b" />
+  <g transform="translate(50, 50)">
+    <!-- Head -->
+    <circle cx="0" cy="-20" r="12" stroke="#60a5fa" stroke-width="2" fill="none"/>
+    <!-- Body -->
+    <line x1="0" y1="-8" x2="0" y2="15" stroke="#60a5fa" stroke-width="2"/>
+    <!-- Arms -->
+    <line x1="-12" y1="0" x2="12" y2="0" stroke="#60a5fa" stroke-width="2"/>
+    <!-- Legs -->
+    <line x1="0" y1="15" x2="-8" y2="30" stroke="#60a5fa" stroke-width="2"/>
+    <line x1="0" y1="15" x2="8" y2="30" stroke="#60a5fa" stroke-width="2"/>
+    <!-- Neural network connections -->
+    <circle cx="-15" cy="-25" r="2" fill="#ec4899"/>
+    <circle cx="15" cy="-25" r="2" fill="#ec4899"/>
+    <line x1="-15" y1="-25" x2="15" y2="-25" stroke="#8b5cf6" stroke-width="1"/>
+    <line x1="0" y1="-32" x2="0" y2="-16" stroke="#8b5cf6" stroke-width="1"/>
+  </g>
+  <text x="50" y="85" font-family="Arial" font-size="10" fill="white" text-anchor="middle">Physical AI</text>
+  <text x="50" y="95" font-family="Arial" font-size="8" fill="white" text-anchor="middle">&amp; Robotics</text>
+</svg>

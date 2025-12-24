@@ -1,55 +1,41 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!--
+Sync Impact Report:
+Version change: 0.0.0 → 1.0.0
+Added sections: Core Principles (6), Quality Standards, Development Workflow
+Removed sections: None
+Modified principles: None (new principles added)
+Templates requiring updates: N/A (initial constitution)
+Follow-up TODOs: None
+-->
+# Physical AI & Humanoid Robotics Course Constitution
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+### Accuracy from authoritative sources
+Content and code examples must originate from peer-reviewed publications, official documentation, or authoritative sources in the field of Physical AI and Humanoid Robotics. All technical claims must be substantiated by reliable sources, particularly when discussing complex topics such as embodied intelligence, ROS 2, Gazebo, Unity, NVIDIA Isaac, and Vision-Language-Action systems.
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+### Clarity for CS-level readers
+All explanations, code examples, and theoretical concepts must be accessible to computer science students and professionals with appropriate technical background. Technical jargon should be defined when introduced, and complex concepts should be broken down into digestible parts while maintaining accuracy.
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+### Reproducibility of all code and workflows
+Every code example, simulation environment, and workflow must be fully reproducible with clear setup instructions and version specifications. This includes providing Docker configurations, dependency manifests, and step-by-step procedures that allow readers to replicate the examples exactly as presented.
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+### Rigor with preference for peer-reviewed and official documentation
+Technical content must prioritize peer-reviewed academic sources and official documentation from technology providers (ROS, NVIDIA, Unity, etc.). When multiple sources exist for a concept, preference should be given to peer-reviewed publications and official documentation over blog posts or unofficial tutorials.
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+### Integrated RAG Chatbot Excellence
+The embedded RAG chatbot must provide accurate, context-aware responses using authoritative content from the book, with clear citation of sources. The chatbot should enhance learning by providing relevant excerpts, code snippets, and explanations drawn directly from the course material, using OpenAI Agents/ChatKit SDKs, FastAPI, Neon Serverless Postgres, and Qdrant Cloud technologies.
 
-### [PRINCIPLE_6_NAME]
+### Technical Standards Compliance
+All code examples and implementations must follow industry standards for robotics development, including ROS 2 conventions and best practices. Code must be properly documented, follow consistent style guides, and include appropriate error handling and safety considerations relevant to physical AI and humanoid robotics applications.
 
+## Quality Standards
+APA-style citations required for all references. Minimum 50% peer-reviewed sources when citing academic concepts. Zero plagiarism tolerance. Consistent technical terminology throughout the text. All content must be reviewed for technical accuracy by subject matter experts in relevant domains (embodied intelligence, ROS 2, Gazebo, Unity, NVIDIA Isaac, and Vision-Language-Action systems).
 
-[PRINCIPLE__DESCRIPTION]
-
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
-
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
-
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+## Development Workflow
+Content creation follows Spec-Kit Plus methodology with specifications, plans, and testable tasks. All code examples must be tested in relevant environments (ROS 2, Gazebo, Unity, NVIDIA Isaac). Docusaurus-based publishing with GitHub Pages deployment. Regular integration testing ensures the embedded RAG chatbot remains functional and accurate as content evolves.
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
+All content must comply with the defined principles. Amendments require documentation of changes and approval. Code examples must be verified for accuracy and reproducibility. The constitution governs all aspects of the book's development, from initial content creation through deployment and maintenance. Any deviation from these principles must be documented and justified with clear rationale.
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
-
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 1.0.0 | **Ratified**: 2025-12-10 | **Last Amended**: 2025-12-10
