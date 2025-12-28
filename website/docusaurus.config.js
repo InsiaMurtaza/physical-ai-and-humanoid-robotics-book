@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/spec-kit-plus-project/ros2-nervous-system-book/tree/main/',
+            'https://github.com/InsiaMurtaza/physical-ai-and-humanoid-robotics-book.git',
         },
         blog: false, // Optional: disable the blog plugin
         theme: {
@@ -75,7 +75,7 @@ const config = {
             label: 'Book',
           },
           {
-            href: 'https://github.com/spec-kit-plus-project/ros2-nervous-system-book',
+            href: 'https://github.com/InsiaMurtaza/physical-ai-and-humanoid-robotics-book.git',
             label: 'GitHub',
             position: 'right',
           },
@@ -111,7 +111,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/spec-kit-plus-project/ros2-nervous-system-book',
+                href: 'https://github.com/InsiaMurtaza/physical-ai-and-humanoid-robotics-book.git',
               },
             ],
           },
